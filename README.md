@@ -429,5 +429,3 @@ False
 -----------------------------------------------
 CONGRATS! test case #11 passed.
 ```
-#   C h a i n e d H a s h i n g  
- 
